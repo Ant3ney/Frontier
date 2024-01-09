@@ -1,0 +1,13 @@
+# Blender 3.6.5 MTL File: 'cb_03.blend'
+# www.blender.org
+
+newmtl PackedMaterial0
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd cowboy_packed0_diffuse.png
+map_Ks cowboy_packed0_specular.png
+map_Ns cowboy_packed0_gloss.png
+map_Bump cowboy_packed0_normal.png
