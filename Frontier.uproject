@@ -4,7 +4,14 @@
 	"Category": "",
 	"Description": "",
 	"Modules": [
-		
+		{
+			"Name": "Frontier",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
 	],
 	"Plugins": [
 		{
